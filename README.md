@@ -1,9 +1,15 @@
 # CS 1632 - DELIVERABLE 1: Test Plan and Traceability Matrix
 
-## Project - Super Connect 4
+### Super Connect 4
 
-Corey Noel (con10@pitt.edu - corey-noel)
+**Participants:**
 
-Sam Sedivy (sls195@pitt.edu - Samtheman55)
+* Corey Noel (con10@pitt.edu - corey-noel)
 
-https://github.com/corey-noel/D1
+* Sam Sedivy (sls195@pitt.edu - Samtheman55)
+
+**Links:**
+
+* This repository - https://github.com/corey-noel/D1
+
+* Google Doc File - https://goo.gl/2MXUbU
