@@ -337,14 +337,14 @@ class Game
       puts 'It\'s a tie'
     elsif winner?
       swap_turn
-      puts 'Player ' + @turn + ' won!'
+      puts "Player #{@turn} won!"
     end
   end
 
   # Pretty-print a 2-dimensional array
   def display_2d_array(arr)
     arr[0].size.times do |x|
-      print x
+      print x % 10
     end
     puts
 
